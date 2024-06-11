@@ -1,6 +1,5 @@
 # 🤙 Opa, me chamo Vinicius Aurélio!
 
-- 🚀 Aplicando meus conhecimentos em projetos que resolvem problemas reais.
 - 🌱 Sempre aprendendo algo novo e aprimorando meus conhecimentos.
 
 #
