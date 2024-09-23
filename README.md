@@ -20,7 +20,6 @@
 <code><img height="52" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="SpringBoot"></code>
 <code><img height="52" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST"></code>
 
-## Em desenvolvimento
 
 ## 🔨 IDEs
 <code><img height="52" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ"></code>
