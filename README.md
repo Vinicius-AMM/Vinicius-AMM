@@ -6,19 +6,22 @@
 
 # 🖥️ Linguagens | Frameworks | Ferramentas
 <code><img height="52" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java"></code>
-<code><img height="52" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven"></code>
 <code><img height="52" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="JUnit"></code>
 <code><img height="52" src="https://user-images.githubusercontent.com/25181517/183892181-ad32b69e-3603-418c-b8e7-99e976c2a784.png" alt="mocikto"></code>
+<code><img height="52" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kafka.svg" alt="Kafka"></code>
+<code><img height="52" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Maven-Dark.svg" alt="Maven"></code>
 
 <code><img height="52" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL"></code>
-<code><img height="52" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" alt="MariaDB"></code>
+<code><img height="52" src="https://camo.githubusercontent.com/c8995b218b69bcd180df63007c4cb5f43f2d7051826f7705cfbdf36cdb7e77d3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667" alt="PostgreSQL"></code>
 
-<code><img height="52" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git"></code>
 <code><img height="52" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub"></code>
+<code><img height="52" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git"></code>
+<code><img height="52" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git"></code>
+<code><img height="52" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" alt="Postman"></code>
+<code><img height="52" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" alt="Docker"></code>
 
 <code><img height="52" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="SpringBoot"></code>
 <code><img height="52" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST"></code>
-
 
 ## 🔨 IDEs
 <code><img height="52" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ"></code>
