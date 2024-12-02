@@ -1,4 +1,4 @@
-# 🤙 Opa, sou Vinicius Aurélio!
+# 🤙 Bem vindo, sou Vinicius Aurélio!
 
 - 🌱 Sempre aprendendo algo novo e aprimorando meus conhecimentos.
 
