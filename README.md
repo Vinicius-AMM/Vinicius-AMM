@@ -1,4 +1,4 @@
-# 🤙 Opa, me chamo Vinicius Aurélio!
+# 🤙 Opa, sou Vinicius Aurélio!
 
 - 🌱 Sempre aprendendo algo novo e aprimorando meus conhecimentos.
 
