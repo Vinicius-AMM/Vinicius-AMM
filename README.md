@@ -16,7 +16,6 @@
 
 <code><img height="52" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub"></code>
 <code><img height="52" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git"></code>
-<code><img height="52" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git"></code>
 <code><img height="52" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" alt="Postman"></code>
 <code><img height="52" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" alt="Docker"></code>
 
