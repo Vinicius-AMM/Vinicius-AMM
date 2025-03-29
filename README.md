@@ -1,6 +1,4 @@
 # 🤙 Bem vindo, sou Vinicius Aurélio!
-![Capa](https://github.com/user-attachments/assets/713ec123-bd7d-4f3b-8827-70be36fb97b3)
-#
 
 - 🌱 Sempre aprendendo algo novo e aprimorando meus conhecimentos.
 
