@@ -34,5 +34,3 @@
 # Onde me encontrar 👇
 <a href = "https://www.linkedin.com/in/vinicius-aur%C3%A9lio-09a041239/" ><img height="42" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" style ="border-radius: 30px">
 </a>
-<a href = "mailto:aurelioviniciusprofissional@gmail.com"><img height="42" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style ="border-radius: 30px">
-</a>
